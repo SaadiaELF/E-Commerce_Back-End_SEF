@@ -35,7 +35,7 @@ This application is created using the following languages, libraries and softwar
     
 This open-source back-end JavaScript runtime environment is used to invoke the application using the following commands :
 
-    * npm init -y : to intialise node
+    * npm init -y : to initialize node
     * nmp i mysql2: to install the mysql2 package
     * nmp i express : to install the express package
     * nmp i dotenv : to install the dotenv package
@@ -67,7 +67,6 @@ This visual database design tool is used to create the database from schema.sql 
 3. Execute the script
 
 -----------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------
 
 ## Insomnia
 
@@ -97,9 +96,11 @@ This API testing tool is used to test routes :
 -----------------------------------------------------------------------------------------------------------------------
 
 ## Demonstration
+
 * Categories routes : ![Demo01](./assets/Categories.gif)
 * Products routes : ![Demo02](./assets/Products.gif)
 * Tags routes : ![Demo03](./assets/Tags.gif)
+
 -----------------------------------------------------------------------------------------------------------------------
 
 ## URLs
