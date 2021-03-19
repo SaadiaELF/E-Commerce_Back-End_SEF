@@ -104,7 +104,7 @@ This API testing tool is used to test routes :
 -----------------------------------------------------------------------------------------------------------------------
 
 ## URLs
-* The walkthrough video: https://drive.google.com/file/d/1-yPS7c5Ub8-ufqSKVRzkcAliUB0NICI9/view?usp=sharing
+* The walkthrough video: https://drive.google.com/file/d/1PQd-w-Lq5V2Az4rD8D0tgLa2ZV8WEfUR/view?usp=sharing
 
 * The URL of the GitHub repository: https://github.com/SaadiaELF/E-Commerce_Back-End_SEF.git
 
