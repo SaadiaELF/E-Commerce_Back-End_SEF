@@ -1,4 +1,7 @@
+// Require express router
 const router = require('express').Router();
+
+// Import the model
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
