@@ -1,5 +1,6 @@
 // Requiring dotenv npm 
 require('dotenv').config();
+
 // Requiring Sequelize npm 
 const Sequelize = require('sequelize');
 
